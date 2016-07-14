@@ -1,0 +1,44 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+	color: #b2f7fd;
+};
+
+h3{
+	margin-top: 50px;
+}
+
+h1{
+	margin-top: 50px; /*Si quito esto se me desordena el botón*/
+	font-size: 52px;
+}
+.btn-timezone{
+	margin: 100px 0px 0px 600px;
+	background-color: #250084;
+	border-color: #b2f7fd;
+}
+
+
+section{
+	background-image: url("http://www.walldevil.com/wallpapers/a50/earth-world-space-yellow-apple-wallpaper-red-desktop-earthview-neonblue-abstract-colored-continents-green.jpg");
+}
+
+.fondo-propiedades{
+	background-size: cover;
+	height: 700px;
+	margin-top: 100px;
+}
+
+.zonas-horarias{
+	height: 400px;
+	width: 600px;
+	position: fixed;
+	background-color: rgba(24, 246, 240, 0.8);
+	color: #250084;
+	padding: 20px;
+	border-radius: 5px;
+	margin-left: 340px;
+	bottom: 200px;
+}
+
+
+
